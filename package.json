@@ -5,7 +5,7 @@
   "main": "/clase_01/arrays_01.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon ./clase_01/arrays_01.js"
+    "start": "nodemon ./clase_01/ejercicio_01.js"
   },
   "author": "UNLICENSED",
   "license": "UNLICENSED",
